@@ -89,12 +89,6 @@ Enter second number: 0
 Division by zero is not possible!
 ```
 
-## Future Improvements
-
-- Add support for decimal input (`double`)
-- Add scientific calculator operations
-- Separate logic into different classes using OOP principles
-- Add GUI interface using JavaFX/Swing
 
 ## Author
 
