@@ -31,7 +31,7 @@ The program allows users to perform basic arithmetic operations repeatedly until
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/ParvShah720/Console-Calculator-Java.git>
 ```
 
 ### 2. Navigate to the project folder
